@@ -50,8 +50,4 @@ Zbroj koji mora biti jednak u svakom retku, stupcu i dijagonali iznosi:
 
 ---
 
-Ako želiš, mogu ti:
 
-* skratiti tekst (ispitna verzija),
-* prilagoditi ga točno za **FER / FOI / TVZ stil zadatka**,
-* ili dodati **primjere ulaza i izlaza**.
