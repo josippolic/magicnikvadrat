@@ -1,6 +1,4 @@
-Naravno — evo **uredno i potpuno napisan tekst zadatka**, oblikovan kao službeni zadatak:
 
----
 
 ## Zadatak: Magični kvadrat
 
